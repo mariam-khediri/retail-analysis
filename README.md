@@ -11,7 +11,6 @@ This project analyzes e-commerce transactional data to identify purchasing patte
 - Data exploration & cleaning in **SQL**
 - Feature engineering for modeling
 - Exporting prepared data to **Python** for visualization & regression modeling
-- Planning for a future **Power BI** dashboard
 
 ---
 
@@ -21,7 +20,6 @@ This project analyzes e-commerce transactional data to identify purchasing patte
 |-------------------|----------------------------------|
 | PostgreSQL + DBeaver | Data cleaning, exploration, feature engineering |
 | Python (Pandas, Seaborn, Scikit-learn) | Data export, visualization, regression modeling |
-| Power BI *(Upcoming)*  | Dashboarding and KPI visualization |
 | GitHub            | Project versioning and sharing  |
 
 ---
@@ -42,9 +40,6 @@ SQL_Pricing_Project/
 │
 ├── data/
 │   └── online_retail_model_data.csv  # Cleaned data for modeling & BI
-│
-├── dashboard/ (planned)
-│   └── online_retail_dashboard.pbix
 │
 └── README.md
 ```
@@ -93,10 +88,6 @@ SQL_Pricing_Project/
 - Full SQL workflow for real-world e-commerce analytics
 - Advanced SQL functions (window functions, aggregations, CASE)
 - Regression modeling pipeline in Python
-- Preparing data for BI tools like Power BI
 
 ---
 
-### 🔮 Next Steps
-
-- ✅ Build a Power BI dashboard using exported CSV
